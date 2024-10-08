@@ -1,7 +1,5 @@
 ---
 title: "MXiao0912.github.io"
-output-dir: docs
-type: website
 ---
 
 This is a Quarto website.
