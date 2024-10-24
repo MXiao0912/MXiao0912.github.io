@@ -8,7 +8,7 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: Mingmei_application package/cv_1024_mingmei.pdf
+      - href: cv_1024_mingmei.pdf
         text: CV
       - Research.qmd
       - teaching.qmd
