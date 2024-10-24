@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Mingmei Xiao"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: Mingmei_application package/cv_1024_mingmei.pdf
+        text: CV
+      - Research.qmd
+      - teaching.qmd
+
+format:
+  html:
+    theme: Solar
+    css: styles.css
+    toc: true
+    page-layout: full
+
+editor: visual
+
