@@ -21,9 +21,7 @@ format:
     css: styles.css
     toc: true
     page-layout: full
-
-site:
-  google-site-verification: "h0RQKTmt5aOCqpc1Pi-ePTmfNWzfOOAyAAw899b35pc"
+    copy-resources: true
 
 editor: visual
 

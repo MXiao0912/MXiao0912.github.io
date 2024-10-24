@@ -1,6 +1,6 @@
 ---
 title: ""
-image: headshot.jpeg
+image: headshot_casual.jpg
 toc: false
 about: 
   template: jolla
