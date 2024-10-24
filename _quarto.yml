@@ -12,6 +12,8 @@ website:
         text: CV
       - Research.qmd
       - teaching.qmd
+  google-analytics:
+    tracking-id: "G-F9SLZBXDW1"
 
 format:
   html:
